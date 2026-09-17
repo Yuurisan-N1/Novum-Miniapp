@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Novum%20AI%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Auto%20Mining%20%7C%20Auto%20Gift%20Box%20%7C%20Channel%20Bonus%20%7C%20Promo%20%26%20Referral%20%7C%20Multi-Account&descAlign=50&descAlignY=58"/>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Novum%20Miniapp%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Auto%20Login%20%7C%20Auto%20Gift%20%7C%20Auto%20Mining%20Claim%20%7C%20Proxy%20Support&descAlign=50&descAlignY=58"/>
 
 <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=650&center=true&vCenter=true&width=900&lines=Auto+Mining+%7C+Accrued+Profit+Claimed+Above+The+Platform+Minimum;Auto+Gift+Box+%7C+Opened+Until+The+Daily+Boxes+Are+Gone;Auto+Channel+Bonus+%7C+Claimed+Once+The+Subscription+Is+Confirmed;Referral+Monitoring+%7C+Next+Level+Progress+In+The+Log;Session+Cache+%7C+Claiming+Keeps+Running+After+initData+Expires;Proxy+Support+%7C+Multi-Account"/>
 
